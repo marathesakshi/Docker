@@ -1,0 +1,13 @@
+C:\Users\aj538> docker -v 
+C:\Users\aj538> docker images 
+C:\Users\aj538> docker ps 
+C:\Users\aj538> docker pull OpenJDK   
+C:\Users\aj538> docker run --name MYIMAGE -it -d OpenJDK 
+C:\Users\aj538> docker images 
+C:\Users\aj538> docker ps 
+C:\Users\aj538> docker images 
+C:\Users\aj538> docker stop 
+C:\Users\aj538> docker container rm 
+C:\Users\aj538> docker images  
+C:\Users\aj538> docker ps
+
